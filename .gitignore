@@ -1,0 +1,27 @@
+# ===== Operating System =====
+.DS_Store
+Thumbs.db
+
+# ===== FastQC =====
+*_fastqc.html
+*_fastqc.zip
+
+# ===== Alignment Files =====
+*.sam
+*.bam
+*.bai
+
+# ===== Temporary Files =====
+*.tmp
+*.log
+
+# ===== Software Packages =====
+FastQC/
+Trimmomatic-0.39/
+
+# ===== Editors =====
+.vscode/
+.idea/
+
+# ===== Python =====
+__pycache__/

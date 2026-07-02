@@ -176,9 +176,9 @@ These results indicate high-quality sequencing reads and successful alignment to
 
 ## Author
 
-**Zafir**
+**Dr Zafir Ahmad Naik**
 
-Aspiring Bioinformatician
+PhD Genetics and Plant Breeding
 
 Learning Linux • NGS • Computational Biology
 
